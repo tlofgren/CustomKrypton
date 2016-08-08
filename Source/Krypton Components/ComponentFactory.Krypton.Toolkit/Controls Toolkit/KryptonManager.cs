@@ -39,7 +39,7 @@ namespace ComponentFactory.Krypton.Toolkit
         private static GlobalStrings _globalStrings = new GlobalStrings();
 
         // Initialize the default modes
-        private static PaletteModeManager _globalPaletteMode = PaletteModeManager.Office2010Blue;
+        private static PaletteModeManager _globalPaletteMode = PaletteModeManager.ProfessionalSystem;
 
         // Initialize instances to match the default modes
         private static IPalette _globalPalette = CurrentGlobalPalette;
