@@ -1,6 +1,6 @@
 namespace KryptonFormExamples
 {
-    partial class Form1
+    partial class KryptonFormExampleForm
     {
         /// <summary>
         /// Required designer variable.
@@ -29,7 +29,7 @@ namespace KryptonFormExamples
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(KryptonFormExampleForm));
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.menu1ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.oneToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();

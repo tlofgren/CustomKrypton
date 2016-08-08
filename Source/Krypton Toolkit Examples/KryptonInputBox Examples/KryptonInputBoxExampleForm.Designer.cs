@@ -1,6 +1,6 @@
 ﻿namespace KryptonInputBoxExamples
 {
-    partial class Form1
+    partial class KryptonInputBoxExampleForm
     {
         /// <summary>
         /// Required designer variable.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(KryptonInputBoxExampleForm));
             this.labelPrompt = new System.Windows.Forms.Label();
             this.labelCaption = new System.Windows.Forms.Label();
             this.labelDefaultResponse = new System.Windows.Forms.Label();

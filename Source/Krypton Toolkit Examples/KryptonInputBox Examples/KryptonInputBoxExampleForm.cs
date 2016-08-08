@@ -18,9 +18,9 @@ using ComponentFactory.Krypton.Toolkit;
 
 namespace KryptonInputBoxExamples
 {
-    public partial class Form1 : Form
+    public partial class KryptonInputBoxExampleForm : Form
     {
-        public Form1()
+        public KryptonInputBoxExampleForm()
         {
             InitializeComponent();
         }

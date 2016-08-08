@@ -19,9 +19,9 @@ using ComponentFactory.Krypton.Toolkit;
 
 namespace KryptonFormExamples
 {
-    public partial class Form1 : KryptonForm
+    public partial class KryptonFormExampleForm : KryptonForm
     {
-        public Form1()
+        public KryptonFormExampleForm()
         {
             InitializeComponent();
         }
